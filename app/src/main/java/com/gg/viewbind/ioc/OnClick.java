@@ -1,4 +1,4 @@
-package com.azging.ging.viewbind.ioc;
+package com.gg.viewbind.ioc;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

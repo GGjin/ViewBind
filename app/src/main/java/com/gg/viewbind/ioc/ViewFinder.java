@@ -1,4 +1,4 @@
-package com.azging.ging.viewbind.ioc;
+package com.gg.viewbind.ioc;
 
 import android.app.Activity;
 import android.view.View;
